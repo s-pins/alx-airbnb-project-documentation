@@ -40,4 +40,4 @@ Each story aligns with the system functionalities visualized in the previous tas
 
 **Author:** Frank Wambua  
 **Date:** October 2025  
-**Repository:** [alx-airbnb-project-documentation](https://github.com/yourusername/alx-airbnb-project-documentation)
+**Repository:** [alx-airbnb-project-documentation](https://github.com/s-pins/alx-airbnb-project-documentation)
